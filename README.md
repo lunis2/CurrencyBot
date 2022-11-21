@@ -1,1 +1,1 @@
-# CurrencyBot for Instagram 
+# CurrencyBot for Telegram 
